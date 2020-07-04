@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wolf Hermann Fridman
+title: Cheng-Ming Sun
 
 # Username (this should match the folder name)
 authors:
-- Herve
+- Cheng_Ming
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor emeritus
+bio: DC lover
 
 interests:
-- Clocks
-- More clocks
+- Flow cytometry
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "herve.fridman@crc.jussieu.fr"
+#email: "herve.fridman@crc.jussieu.fr"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

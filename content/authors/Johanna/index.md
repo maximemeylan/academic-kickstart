@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Wolf Hermann Fridman
+title: Johanna Verneau
 
 # Username (this should match the folder name)
 authors:
-- Herve
+- Johanna
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Principale investigator
+role: Post-doctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor emeritus
+bio: wnt lover
 
 interests:
-- Clocks
-- More clocks
+- Spicy food
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,6 +52,6 @@ email: "herve.fridman@crc.jussieu.fr"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researcher
 ---
 
