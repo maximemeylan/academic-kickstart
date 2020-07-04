@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wolf Hermann Fridman
+title: Wolf Herman Fridman
 
 # Username (this should match the folder name)
 authors:
