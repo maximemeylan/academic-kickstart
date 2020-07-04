@@ -1,5 +1,5 @@
 title = "B cells are associated with survival and immunotherapy response in sarcoma"
-date = 2020-01-01T00:00:00
+date = 2020-01-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Florent Petitprez"]
@@ -18,7 +18,7 @@ authors = ["Florent Petitprez"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Source Themes, 1*(1)"
+publication = "Nature"
 publication_short = ""
 
 # Abstract.
@@ -30,11 +30,11 @@ abstract = "Soft-tissue sarcomas represent a heterogeneous group of cancer, with
 doi = ""
 
 # Is this a featured publication? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Source Themes"]
+#tags = ["Source Themes"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -68,10 +68,10 @@ url_source = ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+#[image]
+#  # Caption (optional)
+#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+#  # Focal point (optional)
+#  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+#  focal_point = ""
