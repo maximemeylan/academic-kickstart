@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principale investigator
+role: Medical oncologist
 
 # Organizations/Affiliations
 organizations:
@@ -18,10 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Medical oncologist
+bio: Urothelial cancers
 
 interests:
-- Ultra spicy food
+- Clinical trials
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

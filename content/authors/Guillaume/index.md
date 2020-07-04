@@ -21,7 +21,7 @@ organizations:
 bio: tumor slicer
 
 interests:
-- beer
+- IHC expert
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principale investigator
+role: Team leader
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,7 @@ organizations:
 bio: Professor emeritus
 
 interests:
-- Cigars
-- Good jokes
+- Strategy
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

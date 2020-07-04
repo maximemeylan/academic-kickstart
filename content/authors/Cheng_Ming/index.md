@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principale investigator
+role: Permanent researcher
 
 # Organizations/Affiliations
 organizations:

@@ -21,8 +21,8 @@ organizations:
 bio: crossfit fan
 
 interests:
-- running
-- barbecue
+- Cytof
+- IHC
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
