@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Wolf Hermann Fridman
+title: Yann Vano
 
 # Username (this should match the folder name)
 authors:
-- Herve
+- Yann
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor emeritus
+bio: Medical oncologist
 
 interests:
-- Cigars
-- Good jokes
+- Ultra spicy food
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
