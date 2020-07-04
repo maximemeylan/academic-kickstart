@@ -21,7 +21,6 @@ organizations:
 bio: Professor emeritus
 
 interests:
-- Team leader
 - Operations
 
 # Social/Academic Networking
