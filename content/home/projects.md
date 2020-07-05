@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
 title = "Bioinformatic tools"
 subtitle = ""
@@ -22,16 +22,12 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-     name = "WebMCP-counter"
+     name = [WebMCP-counter](http://134.157.229.105:3838/webMCP/)
      tag = "Transcriptomic"
-     url= "http://134.157.229.105:3838/webMCP/"
-
   
    [[content.filter_button]]
-     name = "Excyte"
+     name = [Excyte](https://github.com/maximemeylan/Excyte)
      tag = "Single cell cytometry"
-     url="https://github.com/maximemeylan/Excyte"
-
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -46,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
