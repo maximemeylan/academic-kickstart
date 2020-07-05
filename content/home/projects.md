@@ -24,13 +24,14 @@ subtitle = ""
   [[content.filter_button]]
      name = "WebMCP-counter"
      tag = "Transcriptomic"
-     external_link = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
+     url = "http://134.157.229.105:3838/webMCP/"
+     url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
 
   
    [[content.filter_button]]
      name = "Excyte"
      tag = "Single cell cytometry"
-     external_link = "[Excyte](https://github.com/maximemeylan/Excyte)"
+     url = "https://github.com/maximemeylan/Excyte"
    
   
   # [[content.filter_button]]
