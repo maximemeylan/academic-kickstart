@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Projects"
+title = "Bioinformatic tools"
 subtitle = ""
 
 [content]
@@ -21,13 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+     name = "WebMCP-counter"
+     tag = "Transcriptomic"
+     link= "http://134.157.229.105:3838/webMCP/"
+
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Excyte"
+     tag = "Single cell cytometry"
+     link="https://github.com/maximemeylan/Excyte"
+
   
   # [[content.filter_button]]
   #   name = "Other"
