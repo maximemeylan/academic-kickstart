@@ -24,9 +24,8 @@ subtitle = ""
   [[content.filter_button]]
      name = "WebMCP-counter"
      tag = "Transcriptomic"
-     url = "http://134.157.229.105:3838/webMCP/"
-     #url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
-
+     #url = "http://134.157.229.105:3838/webMCP/"
+     url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
   
    [[content.filter_button]]
      name = "Excyte"
@@ -40,14 +39,14 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
