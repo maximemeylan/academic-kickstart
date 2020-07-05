@@ -24,13 +24,13 @@ subtitle = ""
   [[content.filter_button]]
      name = "WebMCP-counter"
      tag = "Transcriptomic"
-     link= "http://134.157.229.105:3838/webMCP/"
+     url= "http://134.157.229.105:3838/webMCP/"
 
   
    [[content.filter_button]]
      name = "Excyte"
      tag = "Single cell cytometry"
-     link="https://github.com/maximemeylan/Excyte"
+     url="https://github.com/maximemeylan/Excyte"
 
   
   # [[content.filter_button]]
@@ -46,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
