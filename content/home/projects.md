@@ -25,7 +25,7 @@ subtitle = ""
      name = "WebMCP-counter"
      tag = "Transcriptomic"
      url = "http://134.157.229.105:3838/webMCP/"
-     url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
+     #url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
 
   
    [[content.filter_button]]
