@@ -12,7 +12,7 @@ summary = "Exhaustive exploration of cytometry data"
 tags = ["Single cell cytometry"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = " https://github.com/maximemeylan/Excyte "
+external_link = "https://github.com/maximemeylan/Excyte"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -26,7 +26,7 @@ external_link = " https://github.com/maximemeylan/Excyte "
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/maximemeylan/Excyte"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
