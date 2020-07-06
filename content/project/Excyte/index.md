@@ -1,6 +1,6 @@
 ---
 # Project title.
-title:"Excyte"
+title:Excyte
 
 # Date this page was created.
 date: 2020-08-06T00:00:00

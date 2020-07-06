@@ -1,6 +1,6 @@
 ---
 # Project title.
-title :"WebMCP-counter"
+title:WebMCP-counter
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
