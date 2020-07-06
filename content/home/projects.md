@@ -21,14 +21,14 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-     name = "WebMCP-counter"
-     tags = ["Transcriptomic tools"]
+  #[[content.filter_button]]
+     #name = "WebMCP-counter"
+     #tags = "*"
 
   
    [[content.filter_button]]
-     name = "Excyte"
-     tag = "Single cell cytometry"
+     name = "All"
+     tag = "*"
 
     
   # [[content.filter_button]]
@@ -44,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
