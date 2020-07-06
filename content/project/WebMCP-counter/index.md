@@ -24,7 +24,7 @@ external_link = "http://134.157.229.105:3838/webMCP"
 slides = "example-slides"
 
 # Links (optional).
-url = "http://134.157.229.105:3838/webMCP"
+#url = "http://134.157.229.105:3838/webMCP"
 url_slides = ""
 url_video = ""
 url_code = ""

@@ -24,7 +24,7 @@ external_link = "https://github.com/maximemeylan/Excyte"
 slides = "example-slides"
 
 # Links (optional).
-url = "https://github.com/maximemeylan/Excyte"
+#url = "https://github.com/maximemeylan/Excyte"
 url_slides = ""
 url_video = ""
 url_code = ""
