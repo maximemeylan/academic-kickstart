@@ -20,7 +20,7 @@ external_link = "http://134.157.229.105:3838/webMCP/ "
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+slides = "example-slides"
 
 # Links (optional).
 url_pdf = ""
