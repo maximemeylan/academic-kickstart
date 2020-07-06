@@ -1,18 +1,19 @@
+---
 # Project title.
-title = "Excyte"
+title:WebMCP-counter
 
 # Date this page was created.
-date = 2020-08-06T00:00:00
+#date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Exhaustive exploration of cytometry data"
+summary :"Estimating immune and stromal cell population abundance from the transcriptome"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = "Single cell cytometry"
+tags : "Transcriptomic tools"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/maximemeylan/Excyte"
+external_link :"http://134.157.229.105:3838/webMCP"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -20,24 +21,25 @@ external_link = "https://github.com/maximemeylan/Excyte"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+#slides = "example-slides"
 
 # Links (optional).
-url = "https://github.com/maximemeylan/Excyte"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Unsupervised clustering perfomed by Excyte"
+  #caption = "Photo by rawpixel on Unsplash"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
+---
