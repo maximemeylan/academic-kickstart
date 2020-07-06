@@ -26,9 +26,9 @@ subtitle = ""
      #tags = "*"
 
   
-   #[[content.filter_button]]
-    # name = "All"
-     #tag = "*"
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
 
     
   # [[content.filter_button]]
