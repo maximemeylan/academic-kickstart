@@ -21,15 +21,15 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   #filter_default = 0
   
-  #[[content.filter_button]]
-     #name = "WebMCP-counter"
-     #tags = "*"
+  [[content.filter_button]]
+     name = "WebMCP-counter"
+     tags = "*"
 
   
    [[content.filter_button]]
-     name = "All"
+     name = "Excyte"
      tag = "*"
-     
+
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
