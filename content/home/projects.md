@@ -23,23 +23,21 @@ subtitle = ""
   
   [[content.filter_button]]
      name = "WebMCP-counter"
-     tag = "Transcriptomic"
-     #url = "http://134.157.229.105:3838/webMCP/"
-     url = "[WebMCP-counter](http://134.157.229.105:3838/webMCP/)"
+     tags = ["Transcriptomic tools"]
+
   
    [[content.filter_button]]
      name = "Excyte"
      tag = "Single cell cytometry"
-     url = "https://github.com/maximemeylan/Excyte"
-   
-  
+
+    
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Team leader
+role: Professor emeritus
 
 # Organizations/Affiliations
 organizations:
@@ -52,6 +52,6 @@ email: "catherine.fridman@crc.jussieu.fr"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Team Leaders
 ---
 
