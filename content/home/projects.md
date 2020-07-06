@@ -29,8 +29,7 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-
-    
+     
   # [[content.filter_button]]
   #   name = "Other"
   #   tag = "Demo"

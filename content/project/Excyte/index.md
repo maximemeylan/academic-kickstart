@@ -13,7 +13,7 @@ summary = "Exhaustive exploration of cytometry data"
 tags = "Single cell cytometry"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/maximemeylan/Excyte"
+external_link = "https://github.com/maximemeylan/Excyte/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -24,7 +24,7 @@ external_link = "https://github.com/maximemeylan/Excyte"
 slides = "example-slides"
 
 # Links (optional).
-#url = "https://github.com/maximemeylan/Excyte"
+url = ""
 url_slides = ""
 url_video = ""
 url_code = ""

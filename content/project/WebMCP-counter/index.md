@@ -13,7 +13,7 @@ summary = "Estimating immune and stromal cell population abundance from the tran
 tags = "Transcriptomic tools"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://134.157.229.105:3838/webMCP"
+external_link = "http://134.157.229.105:3838/webMCP/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -24,7 +24,7 @@ external_link = "http://134.157.229.105:3838/webMCP"
 slides = "example-slides"
 
 # Links (optional).
-#url = "http://134.157.229.105:3838/webMCP"
+url = ""
 url_slides = ""
 url_video = ""
 url_code = ""
