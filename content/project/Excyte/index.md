@@ -1,6 +1,6 @@
 ---
 # Project title.
-title: "Excyte"
+title:"Excyte"
 
 # Date this page was created.
 date: 2020-08-06T00:00:00
@@ -36,7 +36,7 @@ url_code: "https://github.com/maximemeylan/Excyte"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
-  # Caption (optional)
+  #Caption (optional)
   caption: "Unsupervised clustering"
   
   # Focal point (optional)
