@@ -1,18 +1,18 @@
 # Project title.
-title = "WebMCP-counter"
+title :"WebMCP-counter"
 
 # Date this page was created.
 #date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Estimating immune and stromal cell population abundance from the transcriptome"
+summary :"Estimating immune and stromal cell population abundance from the transcriptome"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Transcriptomic tools"]
+tags : "Transcriptomic tools"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://134.157.229.105:3838/webMCP/ "
+external_link :"http://134.157.229.105:3838/webMCP"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
