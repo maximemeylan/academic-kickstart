@@ -20,7 +20,7 @@ external_link = "https://github.com/maximemeylan/Excyte/"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+#slides = "example-slides"
 
 # Links (optional).
 url = ""
