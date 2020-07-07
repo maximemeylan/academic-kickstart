@@ -1,7 +1,7 @@
 ---
 title: WebMCP counter
 summary: Graphical user interface to estimate immune and stromal cell population abundance from the transcriptome
-tags:
+tag:
 - transcriptomic tools
 date: "2020-08-06T00:00:00"
 

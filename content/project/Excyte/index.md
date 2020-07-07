@@ -1,7 +1,7 @@
 ---
 title: Excyte
 summary: Exhaustive exploration of cytometry data
-tags:
+tag:
 - single cell cytometry
 date: "2020-08-06T00:00:00"
 
